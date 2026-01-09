@@ -382,5 +382,3 @@ The following features are **intentionally excluded** from V1 to maintain simpli
 ---
 
 **Questions?** Contact aysaxena8880@gmail.com
-
-**Last Updated:** January 2026
