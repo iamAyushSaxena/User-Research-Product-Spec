@@ -32,7 +32,9 @@ def main():
     print("Estimated time: 2-3 minutes")
     print()
     
-    input("Press Enter to start generation...")
+    # --- FIX: Removed input() so CI/CD doesn't crash ---
+    # input("Press Enter to start generation...")
+    print("Starting generation automatically...")
     
     # Step 1: Generate Interviews
     print_header("STEP 1/5: GENERATING INTERVIEW TRANSCRIPTS")
