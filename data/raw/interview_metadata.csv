@@ -1,0 +1,23 @@
+interview_id,date,duration_minutes,participant_id,age,occupation,persona,tools_abandoned,current_tool,interview_method
+INT_001,2025-11-02,38,P001,21,Engineering student / Young professional,The Overwhelmed Optimizer,3,Pen and paper,Video call
+INT_002,2025-12-09,30,P002,27,Creative professional / Graduate student,The Analog Holdout,6,Pen and paper,Phone
+INT_003,2025-11-06,42,P003,18,College student,The Serial Abandoner,2,Google Keep,In-person
+INT_004,2025-12-16,32,P004,19,College student,The Serial Abandoner,2,Pen and paper,In-person
+INT_005,2025-11-23,36,P005,23,Engineering student / Young professional,The Overwhelmed Optimizer,7,Google Keep,Phone
+INT_006,2025-11-15,40,P006,25,Engineering student / Young professional,The Overwhelmed Optimizer,2,Pen and paper,Video call
+INT_007,2025-11-17,34,P007,22,Engineering student / Young professional,The Overwhelmed Optimizer,3,Google Keep,Phone
+INT_008,2025-11-28,32,P008,28,Creative professional / Graduate student,The Analog Holdout,5,Basic notes app,Phone
+INT_009,2025-11-17,35,P009,18,College student,The Serial Abandoner,6,None,Phone
+INT_010,2025-11-04,37,P010,19,College student,The Serial Abandoner,6,None,Video call
+INT_011,2025-12-15,36,P011,25,Engineering student / Young professional,The Overwhelmed Optimizer,7,Google Keep,In-person
+INT_012,2025-11-15,37,P012,27,Creative professional / Graduate student,The Analog Holdout,2,None,Phone
+INT_013,2025-11-09,45,P013,27,Creative professional / Graduate student,The Analog Holdout,3,Basic notes app,In-person
+INT_014,2025-11-26,40,P014,21,Engineering student / Young professional,The Overwhelmed Optimizer,2,Pen and paper,Video call
+INT_015,2025-11-04,30,P015,21,Engineering student / Young professional,The Overwhelmed Optimizer,2,Pen and paper,Video call
+INT_016,2025-12-15,45,P016,24,Engineering student / Young professional,The Overwhelmed Optimizer,3,Pen and paper,In-person
+INT_017,2025-12-03,35,P017,24,Engineering student / Young professional,The Overwhelmed Optimizer,2,None,Video call
+INT_018,2025-11-27,40,P018,18,College student,The Serial Abandoner,4,Pen and paper,Phone
+INT_019,2025-11-07,32,P019,22,College student,The Serial Abandoner,6,Pen and paper,Phone
+INT_020,2025-11-01,39,P020,25,Engineering student / Young professional,The Overwhelmed Optimizer,7,None,Video call
+INT_021,2025-12-03,45,P021,20,College student,The Serial Abandoner,4,None,Video call
+INT_022,2025-11-08,32,P022,21,Engineering student / Young professional,The Overwhelmed Optimizer,7,Pen and paper,Phone
