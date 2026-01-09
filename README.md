@@ -244,8 +244,6 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ### North Star Metric: **Day 14 Retention**
 
-<div align="center">
-
 | Metric | Baseline | Target | Improvement |
 |--------|----------|--------|-------------|
 | **Day 14 Retention** | 18% | 38% | **+20pp (+111%)** |
@@ -253,7 +251,6 @@ The dashboard will open in your browser at `http://localhost:8501`
 | Task Completion Rate | 22% | 55% | **+150%** |
 | Self-Reported Stress | 6.8/10 | 3.2/10 | **-53%** |
 
-</div>
 
 ### Business Impact (Downstream)
 
@@ -459,4 +456,5 @@ If you found this project helpful or impressive, please consider:
 ---
 
 *Built with ❤️ to demonstrate PM skills for career transition*
+
 
