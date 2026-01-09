@@ -1,0 +1,22 @@
+# Core Dependencies
+streamlit
+pandas
+numpy
+plotly
+
+# Data Processing
+python-dateutil
+pytz
+
+# Natural Language Processing (for interview generation)
+faker
+textblob
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Utilities
+pyyaml
+python-dotenv
