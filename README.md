@@ -242,7 +242,7 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ## 📈 Success Metrics & Expected Impact
 
-### North Star Metric: **Day 14 Retention**
+### North Star Metric (**Day 14 Retention**):
 
 | Metric | Baseline | Target | Improvement |
 |--------|----------|--------|-------------|
@@ -252,7 +252,7 @@ The dashboard will open in your browser at `http://localhost:8501`
 | Self-Reported Stress | 6.8/10 | 3.2/10 | **-53%** |
 
 
-### Business Impact (Downstream)
+### Business Impact (Downstream):
 
 | Metric | Baseline | Target | Improvement | Business Value |
 |--------|----------|--------|-------------|----------------|
@@ -456,5 +456,6 @@ If you found this project helpful or impressive, please consider:
 ---
 
 *Built with ❤️ to demonstrate PM skills for career transition*
+
 
 
