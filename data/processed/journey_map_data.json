@@ -1,0 +1,388 @@
+{
+  "current_state": [
+    {
+      "stage": "Discovery",
+      "action": "Hears about productivity tool from friend/YouTube",
+      "emotion": "😊 Excited",
+      "pain": "Overwhelmed by options (Notion vs Todoist vs Trello)",
+      "touchpoint": "Social media, YouTube tutorials",
+      "duration": "1-2 days (research and comparison)",
+      "channels": [
+        "YouTube",
+        "Reddit",
+        "Twitter/X",
+        "Friend recommendation"
+      ],
+      "tools_used": [
+        "Google Search",
+        "YouTube",
+        "ProductHunt"
+      ],
+      "stakeholders": [
+        "Friends",
+        "Content creators",
+        "Community"
+      ],
+      "opportunities": [
+        "Highlight simplicity and quick setup in messaging",
+        "Show before/after of overwhelmed → calm users",
+        "Emphasize 'anti-guilt' positioning"
+      ],
+      "quotes": [
+        "Everyone on YouTube seems to have their life together with Notion",
+        "Maybe this tool will finally make me productive"
+      ]
+    },
+    {
+      "stage": "Signup",
+      "action": "Creates account, sees empty workspace",
+      "emotion": "😐 Neutral",
+      "pain": "No guidance on where to start",
+      "touchpoint": "Onboarding flow",
+      "duration": "5 minutes",
+      "channels": [
+        "Website",
+        "App Store/Play Store"
+      ],
+      "tools_used": [
+        "Notion/Todoist/Trello"
+      ],
+      "stakeholders": [
+        "User (solo decision)"
+      ],
+      "opportunities": [
+        "Ask 1-2 questions max (not 10-question onboarding)",
+        "Show immediate value preview",
+        "No empty workspace anxiety"
+      ],
+      "quotes": [
+        "Okay, created account... now what?",
+        "Why is this workspace completely empty?"
+      ]
+    },
+    {
+      "stage": "Setup",
+      "action": "Spends 2-3 hours creating perfect system",
+      "emotion": "😫 Frustrated",
+      "pain": "Choice paralysis: templates, databases, tags, folders",
+      "touchpoint": "Template gallery, tutorial videos",
+      "duration": "2-4 hours (spread over 1-2 days)",
+      "channels": [
+        "In-app tutorial",
+        "YouTube tutorials",
+        "Help docs"
+      ],
+      "tools_used": [
+        "Template gallery",
+        "Tutorial videos",
+        "Community forums"
+      ],
+      "stakeholders": [
+        "User",
+        "Tutorial creators",
+        "Help docs"
+      ],
+      "opportunities": [
+        "**CRITICAL OPPORTUNITY**: Reduce setup to <5 minutes",
+        "Guided walkthrough, not documentation dump",
+        "Smart defaults, minimal choices",
+        "Progressive disclosure of features"
+      ],
+      "quotes": [
+        "I've been watching tutorials for 2 hours and still don't get it",
+        "Should I use tags or folders? Or both? Or databases?"
+      ]
+    },
+    {
+      "stage": "Initial Use",
+      "action": "Adds 20+ tasks, organizes by project/priority",
+      "emotion": "😌 Hopeful",
+      "pain": "Unclear which task to start with",
+      "touchpoint": "Task list view",
+      "duration": "1 week (honeymoon period)",
+      "channels": [
+        "Mobile app",
+        "Desktop app",
+        "Browser"
+      ],
+      "tools_used": [
+        "Task lists",
+        "Basic features only"
+      ],
+      "stakeholders": [
+        "User",
+        "Possibly teammates"
+      ],
+      "opportunities": [
+        "Limit visible tasks to 3 at a time",
+        "Celebrate first completion immediately",
+        "Prevent task list from growing too fast"
+      ],
+      "quotes": [
+        "I added 25 tasks! This feels organized!",
+        "Wait, which one should I start with?"
+      ]
+    },
+    {
+      "stage": "Reality Check",
+      "action": "Opens app after 2 days, sees 15 incomplete tasks",
+      "emotion": "😔 Guilty",
+      "pain": "Feels like failure, tool becomes reminder of incompletion",
+      "touchpoint": "Push notifications, email reminders",
+      "duration": "3-5 days (declining engagement)",
+      "channels": [
+        "Push notifications",
+        "Email reminders",
+        "App badge"
+      ],
+      "tools_used": [
+        "App (rarely opened)",
+        "Notifications (ignored)"
+      ],
+      "stakeholders": [
+        "User (internal struggle)"
+      ],
+      "opportunities": [
+        "**CRITICAL OPPORTUNITY**: Change notification tone",
+        "Show completed tasks, not incomplete",
+        "Gentle re-engagement, not guilt",
+        "Reduce visual noise"
+      ],
+      "quotes": [
+        "Why do I have 15 overdue tasks already?",
+        "I feel worse every time I open this app"
+      ]
+    },
+    {
+      "stage": "Abandonment",
+      "action": "Stops opening app, returns to pen and paper",
+      "emotion": "😞 Defeated",
+      "pain": "Tool feels like burden, not help",
+      "touchpoint": "Abandoned account",
+      "duration": "Permanent (average 12.3 days from signup)",
+      "channels": [
+        "None (stopped engagement)"
+      ],
+      "tools_used": [
+        "Pen and paper",
+        "Mental notes",
+        "Basic reminders"
+      ],
+      "stakeholders": [
+        "User"
+      ],
+      "opportunities": [
+        "Prevent with earlier interventions",
+        "Exit survey to learn why",
+        "Win-back campaign (if appropriate)"
+      ],
+      "quotes": [
+        "I'm just not disciplined enough for this",
+        "Back to pen and paper I guess"
+      ]
+    }
+  ],
+  "future_state": [
+    {
+      "stage": "Discovery",
+      "action": "Hears about progressive productivity tool",
+      "emotion": "😊 Curious",
+      "delight": "Promise of 'no overwhelm' and 'quick setup'",
+      "touchpoint": "Social media, word of mouth",
+      "duration": "1 day (clear value proposition)",
+      "channels": [
+        "Social media",
+        "Word of mouth",
+        "App Store"
+      ],
+      "tools_used": [
+        "App Store",
+        "Social proof"
+      ],
+      "stakeholders": [
+        "Friends",
+        "Content creators",
+        "Community"
+      ],
+      "key_features": [
+        "Clear 'no overwhelm' promise",
+        "2-minute setup guarantee",
+        "Social proof from real users"
+      ],
+      "success_metrics": [
+        "Click-through rate on 'simple' messaging",
+        "Time on landing page > 30 seconds"
+      ],
+      "quotes": [
+        "A productivity tool that promises NOT to overwhelm me? I'm in.",
+        "Finally, someone gets it"
+      ]
+    },
+    {
+      "stage": "Signup",
+      "action": "Creates account, sees 3 simple prompts",
+      "emotion": "😌 Relieved",
+      "delight": "No empty workspace anxiety, clear starting point",
+      "touchpoint": "Guided onboarding (< 2 minutes)",
+      "duration": "2 minutes (streamlined onboarding)",
+      "channels": [
+        "Website",
+        "Mobile app"
+      ],
+      "tools_used": [
+        "Progressive onboarding"
+      ],
+      "stakeholders": [
+        "User (solo decision)"
+      ],
+      "key_features": [
+        "Single-screen onboarding",
+        "Optional personalization (not required)",
+        "Immediate access to tool"
+      ],
+      "success_metrics": [
+        "Signup completion rate > 80%",
+        "Time to signup < 2 minutes"
+      ],
+      "quotes": [
+        "That was fast. I'm already in?",
+        "This doesn't feel scary like other tools"
+      ]
+    },
+    {
+      "stage": "First Task",
+      "action": "Adds first task, completes it in 5 minutes",
+      "emotion": "😊 Accomplished",
+      "delight": "Immediate win, positive reinforcement",
+      "touchpoint": "Minimal task view (max 3 visible)",
+      "duration": "5 minutes (immediate value)",
+      "channels": [
+        "In-app guided flow",
+        "Mobile notifications"
+      ],
+      "tools_used": [
+        "Minimal task view",
+        "Quick add"
+      ],
+      "stakeholders": [
+        "User",
+        "Onboarding system"
+      ],
+      "key_features": [
+        "Guided first task creation",
+        "Instant completion celebration",
+        "No complexity visible"
+      ],
+      "success_metrics": [
+        "% completing 1 task in first session > 70%",
+        "Time to first completion < 5 minutes"
+      ],
+      "quotes": [
+        "I just completed my first task in 3 minutes!",
+        "This actually feels good"
+      ]
+    },
+    {
+      "stage": "Early Usage",
+      "action": "Uses tool 3-5 times in first week",
+      "emotion": "😃 Confident",
+      "delight": "Tool adapts to behavior, reveals features gradually",
+      "touchpoint": "Context-aware task suggestions",
+      "duration": "1 week (building habit)",
+      "channels": [
+        "Daily app usage",
+        "Contextual prompts"
+      ],
+      "tools_used": [
+        "Context-aware interface",
+        "Progressive features"
+      ],
+      "stakeholders": [
+        "User",
+        "Smart assistant"
+      ],
+      "key_features": [
+        "Max 3 visible tasks at once",
+        "Progressive feature unlocking",
+        "Context-aware suggestions",
+        "Focus mode by default"
+      ],
+      "success_metrics": [
+        "Day 7 retention > 60%",
+        "Tasks completed in first week ≥ 3"
+      ],
+      "quotes": [
+        "I love that I only see 3 tasks at a time",
+        "It's helping me focus instead of overwhelming me"
+      ]
+    },
+    {
+      "stage": "Habit Formation",
+      "action": "Completes 3+ tasks per week consistently",
+      "emotion": "💪 Empowered",
+      "delight": "Sees progress without guilt, tool feels helpful",
+      "touchpoint": "Weekly reflection, wins highlighted",
+      "duration": "2-3 weeks (consistent use)",
+      "channels": [
+        "Smart reminders",
+        "Weekly reviews"
+      ],
+      "tools_used": [
+        "Smart automation",
+        "Adaptive UI"
+      ],
+      "stakeholders": [
+        "User",
+        "Accountability features"
+      ],
+      "key_features": [
+        "Weekly reflection (wins highlighted)",
+        "Adaptive difficulty",
+        "Streak tracking (optional, non-guilt)",
+        "Smart task scheduling"
+      ],
+      "success_metrics": [
+        "3-week active streak > 40%",
+        "Weekly task completion rate > 50%"
+      ],
+      "quotes": [
+        "I've been using this for 3 weeks straight",
+        "It just... works. No stress."
+      ]
+    },
+    {
+      "stage": "Long-term",
+      "action": "Integrated into daily workflow",
+      "emotion": "😌 Calm",
+      "delight": "Tool invisible, habits visible",
+      "touchpoint": "Contextual intelligence, zero maintenance",
+      "duration": "Ongoing (sustainable engagement)",
+      "channels": [
+        "Background integration",
+        "Minimal touchpoints"
+      ],
+      "tools_used": [
+        "Seamless integration",
+        "Background intelligence"
+      ],
+      "stakeholders": [
+        "User",
+        "Team (if collaborative)"
+      ],
+      "key_features": [
+        "Auto-organization",
+        "Zero-maintenance mode",
+        "Deep integration with workflow",
+        "Invisible productivity"
+      ],
+      "success_metrics": [
+        "Day 90 retention > 35%",
+        "NPS score > 50"
+      ],
+      "quotes": [
+        "I don't even think about it anymore, it's just part of my routine",
+        "It adapts to me, I don't adapt to it"
+      ]
+    }
+  ]
+}

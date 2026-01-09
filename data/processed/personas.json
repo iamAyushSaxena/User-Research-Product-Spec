@@ -1,0 +1,257 @@
+[
+  {
+    "name": "The Overwhelmed Optimizer",
+    "tagline": "Downloads every productivity app, abandons within 2 weeks",
+    "demographics": {
+      "age": 22,
+      "age_range": "21-25",
+      "occupation": "Engineering student / Young professional",
+      "education": "Bachelor's in Engineering/Computer Science (current or recent grad)",
+      "location": "Urban area (Metro city)",
+      "tech_savviness": "High (7/10) - Comfortable with tech but overwhelmed by options"
+    },
+    "psychographics": {
+      "personality": "Perfectionist, analytical, detail-oriented, self-critical",
+      "values": [
+        "Efficiency and optimization",
+        "Continuous improvement",
+        "Being organized and prepared",
+        "Making data-driven decisions"
+      ],
+      "attitudes": [
+        "Believes the 'right' tool will solve everything",
+        "Thinks needs to use advanced features to be productive",
+        "Feels pressure to optimize every aspect of life",
+        "Afraid of missing out on better systems"
+      ]
+    },
+    "behavioral_patterns": {
+      "tool_usage": "Downloads every productivity app, abandons within 2 weeks",
+      "avg_tools_abandoned": 4.1,
+      "typical_abandonment_time": "2-3 weeks (then switches to new tool)",
+      "primary_pain": "Spends more time organizing than doing"
+    },
+    "goals": [
+      "Find the 'perfect' productivity system that works long-term",
+      "Stop wasting time setting up tools and start actually doing work",
+      "Feel in control of tasks without constant reorganization",
+      "Use a tool that grows with needs without becoming overwhelming"
+    ],
+    "frustrations": [
+      "Spends more time organizing than doing actual work",
+      "Constantly second-guesses system setup and structure",
+      "Feels like needs to watch hours of tutorials to use basic features",
+      "Gets distracted by new 'better' tools and switches frequently"
+    ],
+    "typical_day": "**Morning (7 AM - 9 AM):** Wakes up, checks productivity app, feels overwhelmed by yesterday's incomplete tasks. Spends 20 minutes reorganizing priorities and tags. Watches a YouTube video about a 'better' productivity system.\n\n**Midday (12 PM - 2 PM):** Takes lunch break, researches new productivity tool recommended by a colleague. Downloads it, spends 30 minutes exploring features. Thinks about migrating from current tool.\n\n**Evening (6 PM - 8 PM):** Opens current productivity app, sees mess of tasks across multiple projects. Spends an hour restructuring workspace with new database views. Completes only 1 of 5 planned tasks.\n\n**Night (10 PM - 11 PM):** Feels unproductive despite working all day. Watches another tutorial about productivity systems. Plans to start fresh tomorrow with a 'better' setup.",
+    "current_tools": [
+      "Currently: Notion (3rd week, considering switching)",
+      "Previously: Todoist, Trello, Asana, ClickUp, Obsidian",
+      "Also uses: Multiple YouTube channels, Reddit r/productivity",
+      "Phone: 15+ productivity apps downloaded (uses 2)"
+    ],
+    "pain_points": [
+      {
+        "theme": "Other",
+        "mentions": 233
+      },
+      {
+        "theme": "Feature Overwhelm",
+        "mentions": 54
+      },
+      {
+        "theme": "Setup Fatigue",
+        "mentions": 47
+      }
+    ],
+    "quotes": [
+      "The tool should feel like a partner, not a judge",
+      "The tool should feel like a partner, not a judge",
+      "And then the guilt gets worse",
+      "The tool should feel like a partner, not a judge",
+      "And then I see all these unfinished tasks piling up, and it feels overwhelming"
+    ],
+    "needs": [
+      "Progressive onboarding—start simple, add complexity gradually",
+      "Clear guidance on 'correct' way to set up (reduce decision fatigue)",
+      "Built-in constraints to prevent over-organization",
+      "Focus on doing, not organizing"
+    ],
+    "success_criteria": [
+      "Uses same tool for 3+ months without switching",
+      "Spends <10 minutes per day on organization",
+      "Completes 70%+ of planned tasks",
+      "Feels tool is 'good enough' (stops searching for perfect)"
+    ]
+  },
+  {
+    "name": "The Serial Abandoner",
+    "tagline": "Starts strong with new tools, stops using within days",
+    "demographics": {
+      "age": 19,
+      "age_range": "18-22",
+      "occupation": "College student",
+      "education": "Undergraduate student (2nd-3rd year)",
+      "location": "Urban area (Metro city)",
+      "tech_savviness": "Medium (5/10) - Can use apps but doesn't explore deeply"
+    },
+    "psychographics": {
+      "personality": "Enthusiastic starter, easily discouraged, seeks validation",
+      "values": [
+        "Authenticity and self-acceptance",
+        "Progress over perfection",
+        "Flexibility and adaptability",
+        "Kindness to self"
+      ],
+      "attitudes": [
+        "Wants to be organized but doubts own discipline",
+        "Blames self when tools don't work",
+        "Skeptical of own ability to maintain habits",
+        "Hopeful that 'this time will be different'"
+      ]
+    },
+    "behavioral_patterns": {
+      "tool_usage": "Starts strong with new tools, stops using within days",
+      "avg_tools_abandoned": 4.3,
+      "typical_abandonment_time": "5-10 days (returns to basics or nothing)",
+      "primary_pain": "Guilt from seeing incomplete tasks"
+    },
+    "goals": [
+      "Build consistent habits without guilt when falling off track",
+      "Complete tasks without feeling overwhelmed by long lists",
+      "Get quick wins that motivate continued use",
+      "Feel successful rather than judged by the tool"
+    ],
+    "frustrations": [
+      "Feels guilty seeing incomplete tasks pile up",
+      "Gets overwhelmed by red notification badges and overdue items",
+      "Loses motivation after missing a few days of use",
+      "Blames self for 'not being disciplined enough'"
+    ],
+    "typical_day": "**Morning (8 AM - 10 AM):** Opens productivity app excitedly (it's Day 3 of new system!). Sees 8 overdue tasks from yesterday. Feels immediate guilt. Closes app. Checks Instagram instead.\n\n**Afternoon (2 PM - 4 PM):** Gets notification: \"You have 12 overdue tasks!\" Feels worse. Opens app briefly, adds 3 more tasks to the list. Doesn't complete any. Closes app again.\n\n**Evening (7 PM - 9 PM):** Tries to use app again. List has grown to 15 tasks. Feels paralyzed—doesn't know where to start. Completes one easy task, but doesn't feel accomplished seeing 14 remaining.\n\n**Night (11 PM):** Thinks \"I'll do better tomorrow.\" Plans to wake up early and tackle the list. (Spoiler: Won't open app for 3 days after this.)",
+    "current_tools": [
+      "Currently: Google Keep (basic, no pressure)",
+      "Abandoned: Notion (2 weeks), Todoist (1 week), Trello (3 days)",
+      "Sometimes: Apple Reminders (when guilt is low)",
+      "Mostly: Mental notes and hoping for the best"
+    ],
+    "pain_points": [
+      {
+        "theme": "Other",
+        "mentions": 175
+      },
+      {
+        "theme": "Productivity Guilt",
+        "mentions": 70
+      },
+      {
+        "theme": "Social Comparison Anxiety",
+        "mentions": 23
+      }
+    ],
+    "quotes": [
+      "Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures",
+      "I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",
+      "I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",
+      "Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures",
+      "By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet"
+    ],
+    "needs": [
+      "Gentle re-engagement when returning after absence",
+      "No guilt-inducing notifications or overdue badges",
+      "Quick wins within first session",
+      "Limits on task adding (prevent overcommitment)"
+    ],
+    "success_criteria": [
+      "Still using tool after 30 days (key milestone)",
+      "Opens app without feeling guilt or dread",
+      "Completes 3+ tasks per week consistently",
+      "Feels successful even with imperfect adherence"
+    ]
+  },
+  {
+    "name": "The Analog Holdout",
+    "tagline": "Prefers pen and paper, tried digital but reverted",
+    "demographics": {
+      "age": 27,
+      "age_range": "23-28",
+      "occupation": "Creative professional / Graduate student",
+      "education": "Bachelor's in Design/Arts or Master's student",
+      "location": "Urban area (Metro city)",
+      "tech_savviness": "Medium-Low (4/10) - Prefers simplicity over features"
+    },
+    "psychographics": {
+      "personality": "Creative, tactile, traditional, values simplicity",
+      "values": [
+        "Craftsmanship and quality",
+        "Simplicity and minimalism",
+        "Tangible experiences",
+        "Personal touch"
+      ],
+      "attitudes": [
+        "Believes digital lacks soul and authenticity",
+        "Values quality over quantity of tools",
+        "Skeptical of tech-driven productivity culture",
+        "Trusts own methods over trendy solutions"
+      ]
+    },
+    "behavioral_patterns": {
+      "tool_usage": "Prefers pen and paper, tried digital but reverted",
+      "avg_tools_abandoned": 4.0,
+      "typical_abandonment_time": "2-7 days (returns to paper)",
+      "primary_pain": "Digital tools feel too cold and rigid"
+    },
+    "goals": [
+      "Find a digital tool that matches the flexibility of paper",
+      "Reduce reliance on physical notebooks for shareable items",
+      "Have a backup system that doesn't require daily maintenance",
+      "Use technology when it adds value, not because 'I should'"
+    ],
+    "frustrations": [
+      "Digital tools feel cold, rigid, and impersonal",
+      "Too many clicks and menus to do simple things",
+      "Can't doodle, cross out, or freely organize like on paper",
+      "Forced into structures that don't match thinking style"
+    ],
+    "typical_day": "**Morning (6 AM - 9 AM):** Morning coffee with physical journal. Writes down 3 tasks for the day using favorite pen. Feels grounded and clear-headed. Crosses out yesterday's completed tasks with satisfaction.\n\n**Midday (1 PM - 3 PM):** Colleague sends shared Notion document. Opens app reluctantly. Feels lost in the interface. Copies relevant info to notebook. Closes Notion.\n\n**Evening (5 PM - 7 PM):** Needs to share task list with team. Tries using digital tool. Gets frustrated with formatting. Takes photo of handwritten notes instead. Sends via email.\n\n**Night (9 PM - 10 PM):** Reviews day in journal. Doodles thoughts and ideas. Feels satisfied. Briefly considers trying digital again but remembers the frustration. Sticks with paper.",
+    "current_tools": [
+      "Primary: Physical journal/notebook (Moleskine or similar)",
+      "Backup: Sticky notes, index cards",
+      "Forced to use: Google Docs (for team collaboration)",
+      "Tried and abandoned: Notion, Evernote, OneNote"
+    ],
+    "pain_points": [
+      {
+        "theme": "Other",
+        "mentions": 83
+      },
+      {
+        "theme": "Feature Overwhelm",
+        "mentions": 24
+      },
+      {
+        "theme": "Social Comparison Anxiety",
+        "mentions": 18
+      }
+    ],
+    "quotes": [
+      "With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human",
+      "Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures",
+      "By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",
+      "With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human",
+      "With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human"
+    ],
+    "needs": [
+      "Flexibility—no forced structures or templates",
+      "Simple, minimal interface (less is more)",
+      "Option to use alongside paper (not replacement)",
+      "Fast, frictionless task entry"
+    ],
+    "success_criteria": [
+      "Uses digital tool for specific use cases (sharing, reminders)",
+      "Doesn't feel forced to abandon paper entirely",
+      "Tool integrates seamlessly with notebook workflow",
+      "Minimal time spent in digital tool (efficiency)"
+    ]
+  }
+]

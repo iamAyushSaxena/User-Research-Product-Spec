@@ -1,0 +1,964 @@
+text,interview_id,theme,sentiment
+"I'm 21 years old, and I'm a engineering student / young professional",interview_01,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_01,Other,positive
+"Oh yes, I've tried so many",interview_01,Tool Hopping Behavior,neutral
+"Todoist, ClickUp, Asana",interview_01,Other,neutral
+probably more that I'm forgetting,interview_01,Other,neutral
+I'm always looking for the 'perfect' system,interview_01,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_01,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_01,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_01,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_01,Tool Hopping Behavior,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_01,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_01,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_01,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_01,Other,neutral
+Maybe 5-10% of what the tool can do,interview_01,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_01,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_01,Social Comparison Anxiety,positive
+I think I need something that just,interview_01,Other,neutral
+"Show me three things to do today, that's it",interview_01,Other,neutral
+Don't give me a hundred options until I ask for them,interview_01,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_01,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_01,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_01,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_01,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_01,Other,positive
+"The tool should feel like a partner, not a judge",interview_01,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_01,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_01,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_01,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_01,Productivity Guilt,neutral
+That's the biggest thing,interview_01,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_01,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_01,Other,neutral
+"I'm 27 years old, and I'm a creative professional / graduate student",interview_02,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_02,Other,positive
+"I've tried Asana, Evernote, but honestly",interview_02,Tool Hopping Behavior,neutral
+I always go back to pen and paper,interview_02,Other,neutral
+There's something about writing things down by hand that just works better for my brain,interview_02,Other,positive
+Digital tools feel so,interview_02,Other,neutral
+"I tried using Notion for a few weeks because everyone at work uses it, but I found myself constantly switching between the app and my notebook",interview_02,Tool Hopping Behavior,neutral
+Eventually I just gave up on the digital stuff,interview_02,Tool Hopping Behavior,neutral
+"The digital tools just don't have that flexibility, you know",interview_02,Other,neutral
+"With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human",interview_02,Other,negative
+"Plus, I don't have to worry about which template to use or how to structure everything",interview_02,Lack of Flexibility,neutral
+It's liberating compared to all those menus and buttons and settings,interview_02,Feature Overwhelm,positive
+"So I download the app, create an account, and then",interview_02,Other,neutral
+"It's like, 'okay, now what",interview_02,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_02,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_02,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_02,Other,negative
+I'm never sure if I set it up 'correctly,interview_02,Other,neutral
+"' Like, am I using the right template",interview_02,Setup Fatigue,neutral
+Should I use tags or folders,interview_02,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_02,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_02,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_02,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_02,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_02,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_02,Other,neutral
+Maybe 5-10% of what the tool can do,interview_02,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_02,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_02,Social Comparison Anxiety,positive
+"Honestly, I might never fully switch from paper",interview_02,Context Switching,neutral
+"But if a digital tool could give me the flexibility of paper—like, not force me into rigid structures—I might use it alongside my notebook",interview_02,Lack of Flexibility,neutral
+Maybe for things that need reminders or sharing with others,interview_02,Other,neutral
+Less 'you must use our system' and more 'use it however makes sense to you,interview_02,Lack of Flexibility,neutral
+' Don't make me choose between 10 template types,interview_02,Setup Fatigue,neutral
+Just give me a blank space and let me write,interview_02,Other,neutral
+"If I want to add structure later, I can",interview_02,Lack of Flexibility,neutral
+"Only if it could replicate the feeling of paper—the freedom, the tactile satisfaction, the lack of options paralysis",interview_02,Feature Overwhelm,neutral
+"Right now, digital tools try to do everything, which means they do nothing particularly well",interview_02,Other,neutral
+I'd rather have a tool that does one thing perfectly than tries to be everything to everyone,interview_02,Social Comparison Anxiety,positive
+please make something that doesn't make people feel stupid or inadequate,interview_02,Productivity Guilt,neutral
+That's the biggest thing,interview_02,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_02,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_02,Other,neutral
+"I'm 18 years old, and I'm a college student",interview_03,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_03,Other,positive
+"Yeah, I've tried Notion, Microsoft To Do, Asana",interview_03,Tool Hopping Behavior,neutral
+"I get really excited at first—like, THIS is going to be the thing that changes everything",interview_03,Other,positive
+"I spend the first few days adding all my tasks, color-coding things, setting up reminders",interview_03,Setup Fatigue,neutral
+"I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere",interview_03,Productivity Guilt,neutral
+"It makes me feel terrible, so I just stop opening the app",interview_03,Productivity Guilt,negative
+It's like the app is judging me,interview_03,Productivity Guilt,negative
+"I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",interview_03,Productivity Guilt,negative
+And then I feel guilty about abandoning THAT too,interview_03,Productivity Guilt,negative
+"So I download the app, create an account, and then",interview_03,Other,neutral
+"It's like, 'okay, now what",interview_03,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_03,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_03,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_03,Other,negative
+I'm never sure if I set it up 'correctly,interview_03,Other,neutral
+"' Like, am I using the right template",interview_03,Setup Fatigue,neutral
+Should I use tags or folders,interview_03,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_03,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_03,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_03,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_03,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_03,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_03,Other,neutral
+Maybe 5-10% of what the tool can do,interview_03,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_03,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_03,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_03,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_03,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_03,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_03,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_03,Other,neutral
+"I don't know where to start, so I just",interview_03,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_03,Productivity Guilt,negative
+I need something that won't make me feel bad when I fall off the wagon,interview_03,Productivity Guilt,negative
+"Like, if I don't use it for three days, don't punish me with scary red notifications",interview_03,Other,neutral
+gently welcome me back,interview_03,Other,neutral
+"'Hey, want to add one task for today",interview_03,Other,neutral
+' Not 'YOU HAVE 15 OVERDUE ITEMS,interview_03,Productivity Guilt,neutral
+"Yeah, and also maybe about setting realistic expectations",interview_03,Other,neutral
+Don't let me add 30 tasks on day one,interview_03,Other,neutral
+Stop me and say 'let's start with three,interview_03,Other,neutral
+"' Protect me from myself, you know",interview_03,Other,neutral
+"Because I WILL go overboard in the honeymoon phase, and then I'll crash",interview_03,Other,neutral
+I need to feel successful fast—like within the first session,interview_03,Other,positive
+Not after a week of using it perfectly,interview_03,Other,positive
+"If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow",interview_03,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_03,Productivity Guilt,neutral
+That's the biggest thing,interview_03,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_03,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_03,Other,neutral
+"I'm 19 years old, and I'm a college student",interview_04,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_04,Other,positive
+"Yeah, I've tried Asana, Google Keep, Notion",interview_04,Tool Hopping Behavior,neutral
+"I get really excited at first—like, THIS is going to be the thing that changes everything",interview_04,Other,positive
+"I spend the first few days adding all my tasks, color-coding things, setting up reminders",interview_04,Setup Fatigue,neutral
+"I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere",interview_04,Productivity Guilt,neutral
+"It makes me feel terrible, so I just stop opening the app",interview_04,Productivity Guilt,negative
+It's like the app is judging me,interview_04,Productivity Guilt,negative
+"I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",interview_04,Productivity Guilt,negative
+And then I feel guilty about abandoning THAT too,interview_04,Productivity Guilt,negative
+"So I download the app, create an account, and then",interview_04,Other,neutral
+"It's like, 'okay, now what",interview_04,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_04,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_04,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_04,Other,negative
+I'm never sure if I set it up 'correctly,interview_04,Other,neutral
+"' Like, am I using the right template",interview_04,Setup Fatigue,neutral
+Should I use tags or folders,interview_04,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_04,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_04,Other,neutral
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_04,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_04,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_04,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_04,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_04,Other,neutral
+"I don't know where to start, so I just",interview_04,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_04,Productivity Guilt,negative
+I need something that won't make me feel bad when I fall off the wagon,interview_04,Productivity Guilt,negative
+"Like, if I don't use it for three days, don't punish me with scary red notifications",interview_04,Other,neutral
+gently welcome me back,interview_04,Other,neutral
+"'Hey, want to add one task for today",interview_04,Other,neutral
+' Not 'YOU HAVE 15 OVERDUE ITEMS,interview_04,Productivity Guilt,neutral
+"Yeah, and also maybe about setting realistic expectations",interview_04,Other,neutral
+Don't let me add 30 tasks on day one,interview_04,Other,neutral
+Stop me and say 'let's start with three,interview_04,Other,neutral
+"' Protect me from myself, you know",interview_04,Other,neutral
+"Because I WILL go overboard in the honeymoon phase, and then I'll crash",interview_04,Other,neutral
+I need to feel successful fast—like within the first session,interview_04,Other,positive
+Not after a week of using it perfectly,interview_04,Other,positive
+"If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow",interview_04,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_04,Productivity Guilt,neutral
+That's the biggest thing,interview_04,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_04,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_04,Other,neutral
+"I'm 23 years old, and I'm a engineering student / young professional",interview_05,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_05,Other,positive
+"Oh yes, I've tried so many",interview_05,Tool Hopping Behavior,neutral
+"Trello, ClickUp, Microsoft To Do",interview_05,Other,neutral
+probably more that I'm forgetting,interview_05,Other,neutral
+I'm always looking for the 'perfect' system,interview_05,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_05,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_05,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_05,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_05,Tool Hopping Behavior,neutral
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_05,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_05,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_05,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_05,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_05,Other,neutral
+"I don't know where to start, so I just",interview_05,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_05,Productivity Guilt,negative
+I think I need something that just,interview_05,Other,neutral
+"Show me three things to do today, that's it",interview_05,Other,neutral
+Don't give me a hundred options until I ask for them,interview_05,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_05,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_05,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_05,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_05,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_05,Other,positive
+"The tool should feel like a partner, not a judge",interview_05,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_05,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_05,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_05,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_05,Productivity Guilt,neutral
+That's the biggest thing,interview_05,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_05,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_05,Other,neutral
+"I'm 25 years old, and I'm a engineering student / young professional",interview_06,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_06,Other,positive
+"Oh yes, I've tried so many",interview_06,Tool Hopping Behavior,neutral
+"Google Keep, Trello, Notion, Todoist",interview_06,Other,neutral
+probably more that I'm forgetting,interview_06,Other,neutral
+I'm always looking for the 'perfect' system,interview_06,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_06,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_06,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_06,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_06,Tool Hopping Behavior,neutral
+"So I download the app, create an account, and then",interview_06,Other,neutral
+"It's like, 'okay, now what",interview_06,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_06,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_06,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_06,Other,negative
+I'm never sure if I set it up 'correctly,interview_06,Other,neutral
+"' Like, am I using the right template",interview_06,Setup Fatigue,neutral
+Should I use tags or folders,interview_06,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_06,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_06,Other,neutral
+I think I need something that just,interview_06,Other,neutral
+"Show me three things to do today, that's it",interview_06,Other,neutral
+Don't give me a hundred options until I ask for them,interview_06,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_06,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_06,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_06,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_06,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_06,Other,positive
+"The tool should feel like a partner, not a judge",interview_06,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_06,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_06,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_06,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_06,Productivity Guilt,neutral
+That's the biggest thing,interview_06,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_06,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_06,Other,neutral
+"I'm 22 years old, and I'm a engineering student / young professional",interview_07,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_07,Other,positive
+"Oh yes, I've tried so many",interview_07,Tool Hopping Behavior,neutral
+"Google Keep, Trello, Todoist, Microsoft To Do",interview_07,Other,neutral
+probably more that I'm forgetting,interview_07,Other,neutral
+I'm always looking for the 'perfect' system,interview_07,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_07,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_07,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_07,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_07,Tool Hopping Behavior,neutral
+"So I download the app, create an account, and then",interview_07,Other,neutral
+"It's like, 'okay, now what",interview_07,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_07,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_07,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_07,Other,negative
+I'm never sure if I set it up 'correctly,interview_07,Other,neutral
+"' Like, am I using the right template",interview_07,Setup Fatigue,neutral
+Should I use tags or folders,interview_07,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_07,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_07,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_07,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_07,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_07,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_07,Other,neutral
+Maybe 5-10% of what the tool can do,interview_07,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_07,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_07,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_07,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_07,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_07,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_07,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_07,Other,neutral
+"I don't know where to start, so I just",interview_07,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_07,Productivity Guilt,negative
+I think I need something that just,interview_07,Other,neutral
+"Show me three things to do today, that's it",interview_07,Other,neutral
+Don't give me a hundred options until I ask for them,interview_07,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_07,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_07,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_07,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_07,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_07,Other,positive
+"The tool should feel like a partner, not a judge",interview_07,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_07,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_07,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_07,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_07,Productivity Guilt,neutral
+That's the biggest thing,interview_07,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_07,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_07,Other,neutral
+"I'm 28 years old, and I'm a creative professional / graduate student",interview_08,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_08,Other,positive
+"I've tried ClickUp, Evernote, but honestly",interview_08,Tool Hopping Behavior,neutral
+I always go back to pen and paper,interview_08,Other,neutral
+There's something about writing things down by hand that just works better for my brain,interview_08,Other,positive
+Digital tools feel so,interview_08,Other,neutral
+"I tried using Notion for a few weeks because everyone at work uses it, but I found myself constantly switching between the app and my notebook",interview_08,Tool Hopping Behavior,neutral
+Eventually I just gave up on the digital stuff,interview_08,Tool Hopping Behavior,neutral
+"The digital tools just don't have that flexibility, you know",interview_08,Other,neutral
+"With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human",interview_08,Other,negative
+"Plus, I don't have to worry about which template to use or how to structure everything",interview_08,Lack of Flexibility,neutral
+It's liberating compared to all those menus and buttons and settings,interview_08,Feature Overwhelm,positive
+"So I download the app, create an account, and then",interview_08,Other,neutral
+"It's like, 'okay, now what",interview_08,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_08,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_08,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_08,Other,negative
+I'm never sure if I set it up 'correctly,interview_08,Other,neutral
+"' Like, am I using the right template",interview_08,Setup Fatigue,neutral
+Should I use tags or folders,interview_08,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_08,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_08,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_08,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_08,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_08,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_08,Other,neutral
+Maybe 5-10% of what the tool can do,interview_08,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_08,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_08,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_08,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_08,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_08,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_08,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_08,Other,neutral
+"I don't know where to start, so I just",interview_08,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_08,Productivity Guilt,negative
+"Honestly, I might never fully switch from paper",interview_08,Context Switching,neutral
+"But if a digital tool could give me the flexibility of paper—like, not force me into rigid structures—I might use it alongside my notebook",interview_08,Lack of Flexibility,neutral
+Maybe for things that need reminders or sharing with others,interview_08,Other,neutral
+Less 'you must use our system' and more 'use it however makes sense to you,interview_08,Lack of Flexibility,neutral
+' Don't make me choose between 10 template types,interview_08,Setup Fatigue,neutral
+Just give me a blank space and let me write,interview_08,Other,neutral
+"If I want to add structure later, I can",interview_08,Lack of Flexibility,neutral
+"Only if it could replicate the feeling of paper—the freedom, the tactile satisfaction, the lack of options paralysis",interview_08,Feature Overwhelm,neutral
+"Right now, digital tools try to do everything, which means they do nothing particularly well",interview_08,Other,neutral
+I'd rather have a tool that does one thing perfectly than tries to be everything to everyone,interview_08,Social Comparison Anxiety,positive
+please make something that doesn't make people feel stupid or inadequate,interview_08,Productivity Guilt,neutral
+That's the biggest thing,interview_08,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_08,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_08,Other,neutral
+"I'm 18 years old, and I'm a college student",interview_09,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_09,Other,positive
+"Yeah, I've tried Asana, Todoist, Trello",interview_09,Tool Hopping Behavior,neutral
+"I get really excited at first—like, THIS is going to be the thing that changes everything",interview_09,Other,positive
+"I spend the first few days adding all my tasks, color-coding things, setting up reminders",interview_09,Setup Fatigue,neutral
+"I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere",interview_09,Productivity Guilt,neutral
+"It makes me feel terrible, so I just stop opening the app",interview_09,Productivity Guilt,negative
+It's like the app is judging me,interview_09,Productivity Guilt,negative
+"I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",interview_09,Productivity Guilt,negative
+And then I feel guilty about abandoning THAT too,interview_09,Productivity Guilt,negative
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_09,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_09,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_09,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_09,Other,neutral
+Maybe 5-10% of what the tool can do,interview_09,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_09,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_09,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_09,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_09,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_09,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_09,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_09,Other,neutral
+"I don't know where to start, so I just",interview_09,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_09,Productivity Guilt,negative
+I need something that won't make me feel bad when I fall off the wagon,interview_09,Productivity Guilt,negative
+"Like, if I don't use it for three days, don't punish me with scary red notifications",interview_09,Other,neutral
+gently welcome me back,interview_09,Other,neutral
+"'Hey, want to add one task for today",interview_09,Other,neutral
+' Not 'YOU HAVE 15 OVERDUE ITEMS,interview_09,Productivity Guilt,neutral
+"Yeah, and also maybe about setting realistic expectations",interview_09,Other,neutral
+Don't let me add 30 tasks on day one,interview_09,Other,neutral
+Stop me and say 'let's start with three,interview_09,Other,neutral
+"' Protect me from myself, you know",interview_09,Other,neutral
+"Because I WILL go overboard in the honeymoon phase, and then I'll crash",interview_09,Other,neutral
+I need to feel successful fast—like within the first session,interview_09,Other,positive
+Not after a week of using it perfectly,interview_09,Other,positive
+"If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow",interview_09,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_09,Productivity Guilt,neutral
+That's the biggest thing,interview_09,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_09,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_09,Other,neutral
+"I'm 19 years old, and I'm a college student",interview_10,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_10,Other,positive
+"Yeah, I've tried Todoist, Google Keep, ClickUp",interview_10,Tool Hopping Behavior,neutral
+"I get really excited at first—like, THIS is going to be the thing that changes everything",interview_10,Other,positive
+"I spend the first few days adding all my tasks, color-coding things, setting up reminders",interview_10,Setup Fatigue,neutral
+"I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere",interview_10,Productivity Guilt,neutral
+"It makes me feel terrible, so I just stop opening the app",interview_10,Productivity Guilt,negative
+It's like the app is judging me,interview_10,Productivity Guilt,negative
+"I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",interview_10,Productivity Guilt,negative
+And then I feel guilty about abandoning THAT too,interview_10,Productivity Guilt,negative
+"So I download the app, create an account, and then",interview_10,Other,neutral
+"It's like, 'okay, now what",interview_10,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_10,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_10,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_10,Other,negative
+I'm never sure if I set it up 'correctly,interview_10,Other,neutral
+"' Like, am I using the right template",interview_10,Setup Fatigue,neutral
+Should I use tags or folders,interview_10,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_10,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_10,Other,neutral
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_10,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_10,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_10,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_10,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_10,Other,neutral
+"I don't know where to start, so I just",interview_10,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_10,Productivity Guilt,negative
+I need something that won't make me feel bad when I fall off the wagon,interview_10,Productivity Guilt,negative
+"Like, if I don't use it for three days, don't punish me with scary red notifications",interview_10,Other,neutral
+gently welcome me back,interview_10,Other,neutral
+"'Hey, want to add one task for today",interview_10,Other,neutral
+' Not 'YOU HAVE 15 OVERDUE ITEMS,interview_10,Productivity Guilt,neutral
+"Yeah, and also maybe about setting realistic expectations",interview_10,Other,neutral
+Don't let me add 30 tasks on day one,interview_10,Other,neutral
+Stop me and say 'let's start with three,interview_10,Other,neutral
+"' Protect me from myself, you know",interview_10,Other,neutral
+"Because I WILL go overboard in the honeymoon phase, and then I'll crash",interview_10,Other,neutral
+I need to feel successful fast—like within the first session,interview_10,Other,positive
+Not after a week of using it perfectly,interview_10,Other,positive
+"If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow",interview_10,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_10,Productivity Guilt,neutral
+That's the biggest thing,interview_10,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_10,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_10,Other,neutral
+"I'm 25 years old, and I'm a engineering student / young professional",interview_11,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_11,Other,positive
+"Oh yes, I've tried so many",interview_11,Tool Hopping Behavior,neutral
+"Evernote, ClickUp, Asana, Notion",interview_11,Other,neutral
+probably more that I'm forgetting,interview_11,Other,neutral
+I'm always looking for the 'perfect' system,interview_11,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_11,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_11,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_11,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_11,Tool Hopping Behavior,neutral
+"So I download the app, create an account, and then",interview_11,Other,neutral
+"It's like, 'okay, now what",interview_11,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_11,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_11,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_11,Other,negative
+I'm never sure if I set it up 'correctly,interview_11,Other,neutral
+"' Like, am I using the right template",interview_11,Setup Fatigue,neutral
+Should I use tags or folders,interview_11,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_11,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_11,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_11,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_11,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_11,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_11,Other,neutral
+Maybe 5-10% of what the tool can do,interview_11,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_11,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_11,Social Comparison Anxiety,positive
+I think I need something that just,interview_11,Other,neutral
+"Show me three things to do today, that's it",interview_11,Other,neutral
+Don't give me a hundred options until I ask for them,interview_11,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_11,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_11,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_11,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_11,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_11,Other,positive
+"The tool should feel like a partner, not a judge",interview_11,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_11,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_11,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_11,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_11,Productivity Guilt,neutral
+That's the biggest thing,interview_11,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_11,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_11,Other,neutral
+"I'm 27 years old, and I'm a creative professional / graduate student",interview_12,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_12,Other,positive
+"I've tried Asana, Notion, but honestly",interview_12,Tool Hopping Behavior,neutral
+I always go back to pen and paper,interview_12,Other,neutral
+There's something about writing things down by hand that just works better for my brain,interview_12,Other,positive
+Digital tools feel so,interview_12,Other,neutral
+"I tried using Notion for a few weeks because everyone at work uses it, but I found myself constantly switching between the app and my notebook",interview_12,Tool Hopping Behavior,neutral
+Eventually I just gave up on the digital stuff,interview_12,Tool Hopping Behavior,neutral
+"The digital tools just don't have that flexibility, you know",interview_12,Other,neutral
+"With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human",interview_12,Other,negative
+"Plus, I don't have to worry about which template to use or how to structure everything",interview_12,Lack of Flexibility,neutral
+It's liberating compared to all those menus and buttons and settings,interview_12,Feature Overwhelm,positive
+"So I download the app, create an account, and then",interview_12,Other,neutral
+"It's like, 'okay, now what",interview_12,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_12,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_12,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_12,Other,negative
+I'm never sure if I set it up 'correctly,interview_12,Other,neutral
+"' Like, am I using the right template",interview_12,Setup Fatigue,neutral
+Should I use tags or folders,interview_12,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_12,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_12,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_12,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_12,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_12,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_12,Other,neutral
+Maybe 5-10% of what the tool can do,interview_12,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_12,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_12,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_12,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_12,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_12,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_12,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_12,Other,neutral
+"I don't know where to start, so I just",interview_12,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_12,Productivity Guilt,negative
+"Honestly, I might never fully switch from paper",interview_12,Context Switching,neutral
+"But if a digital tool could give me the flexibility of paper—like, not force me into rigid structures—I might use it alongside my notebook",interview_12,Lack of Flexibility,neutral
+Maybe for things that need reminders or sharing with others,interview_12,Other,neutral
+Less 'you must use our system' and more 'use it however makes sense to you,interview_12,Lack of Flexibility,neutral
+' Don't make me choose between 10 template types,interview_12,Setup Fatigue,neutral
+Just give me a blank space and let me write,interview_12,Other,neutral
+"If I want to add structure later, I can",interview_12,Lack of Flexibility,neutral
+"Only if it could replicate the feeling of paper—the freedom, the tactile satisfaction, the lack of options paralysis",interview_12,Feature Overwhelm,neutral
+"Right now, digital tools try to do everything, which means they do nothing particularly well",interview_12,Other,neutral
+I'd rather have a tool that does one thing perfectly than tries to be everything to everyone,interview_12,Social Comparison Anxiety,positive
+please make something that doesn't make people feel stupid or inadequate,interview_12,Productivity Guilt,neutral
+That's the biggest thing,interview_12,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_12,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_12,Other,neutral
+"I'm 27 years old, and I'm a creative professional / graduate student",interview_13,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_13,Other,positive
+"I've tried Todoist, Notion, but honestly",interview_13,Tool Hopping Behavior,neutral
+I always go back to pen and paper,interview_13,Other,neutral
+There's something about writing things down by hand that just works better for my brain,interview_13,Other,positive
+Digital tools feel so,interview_13,Other,neutral
+"I tried using Notion for a few weeks because everyone at work uses it, but I found myself constantly switching between the app and my notebook",interview_13,Tool Hopping Behavior,neutral
+Eventually I just gave up on the digital stuff,interview_13,Tool Hopping Behavior,neutral
+"The digital tools just don't have that flexibility, you know",interview_13,Other,neutral
+"With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human",interview_13,Other,negative
+"Plus, I don't have to worry about which template to use or how to structure everything",interview_13,Lack of Flexibility,neutral
+It's liberating compared to all those menus and buttons and settings,interview_13,Feature Overwhelm,positive
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_13,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_13,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_13,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_13,Other,neutral
+Maybe 5-10% of what the tool can do,interview_13,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_13,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_13,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_13,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_13,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_13,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_13,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_13,Other,neutral
+"I don't know where to start, so I just",interview_13,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_13,Productivity Guilt,negative
+"Honestly, I might never fully switch from paper",interview_13,Context Switching,neutral
+"But if a digital tool could give me the flexibility of paper—like, not force me into rigid structures—I might use it alongside my notebook",interview_13,Lack of Flexibility,neutral
+Maybe for things that need reminders or sharing with others,interview_13,Other,neutral
+Less 'you must use our system' and more 'use it however makes sense to you,interview_13,Lack of Flexibility,neutral
+' Don't make me choose between 10 template types,interview_13,Setup Fatigue,neutral
+Just give me a blank space and let me write,interview_13,Other,neutral
+"If I want to add structure later, I can",interview_13,Lack of Flexibility,neutral
+"Only if it could replicate the feeling of paper—the freedom, the tactile satisfaction, the lack of options paralysis",interview_13,Feature Overwhelm,neutral
+"Right now, digital tools try to do everything, which means they do nothing particularly well",interview_13,Other,neutral
+I'd rather have a tool that does one thing perfectly than tries to be everything to everyone,interview_13,Social Comparison Anxiety,positive
+please make something that doesn't make people feel stupid or inadequate,interview_13,Productivity Guilt,neutral
+That's the biggest thing,interview_13,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_13,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_13,Other,neutral
+"I'm 21 years old, and I'm a engineering student / young professional",interview_14,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_14,Other,positive
+"Oh yes, I've tried so many",interview_14,Tool Hopping Behavior,neutral
+"Evernote, Todoist, Asana, Google Keep",interview_14,Other,neutral
+probably more that I'm forgetting,interview_14,Other,neutral
+I'm always looking for the 'perfect' system,interview_14,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_14,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_14,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_14,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_14,Tool Hopping Behavior,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_14,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_14,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_14,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_14,Other,neutral
+Maybe 5-10% of what the tool can do,interview_14,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_14,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_14,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_14,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_14,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_14,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_14,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_14,Other,neutral
+"I don't know where to start, so I just",interview_14,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_14,Productivity Guilt,negative
+I think I need something that just,interview_14,Other,neutral
+"Show me three things to do today, that's it",interview_14,Other,neutral
+Don't give me a hundred options until I ask for them,interview_14,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_14,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_14,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_14,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_14,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_14,Other,positive
+"The tool should feel like a partner, not a judge",interview_14,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_14,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_14,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_14,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_14,Productivity Guilt,neutral
+That's the biggest thing,interview_14,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_14,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_14,Other,neutral
+"I'm 21 years old, and I'm a engineering student / young professional",interview_15,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_15,Other,positive
+"Oh yes, I've tried so many",interview_15,Tool Hopping Behavior,neutral
+"Evernote, Asana, Todoist, Google Keep",interview_15,Other,neutral
+probably more that I'm forgetting,interview_15,Other,neutral
+I'm always looking for the 'perfect' system,interview_15,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_15,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_15,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_15,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_15,Tool Hopping Behavior,neutral
+"So I download the app, create an account, and then",interview_15,Other,neutral
+"It's like, 'okay, now what",interview_15,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_15,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_15,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_15,Other,negative
+I'm never sure if I set it up 'correctly,interview_15,Other,neutral
+"' Like, am I using the right template",interview_15,Setup Fatigue,neutral
+Should I use tags or folders,interview_15,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_15,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_15,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_15,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_15,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_15,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_15,Other,neutral
+Maybe 5-10% of what the tool can do,interview_15,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_15,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_15,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_15,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_15,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_15,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_15,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_15,Other,neutral
+"I don't know where to start, so I just",interview_15,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_15,Productivity Guilt,negative
+I think I need something that just,interview_15,Other,neutral
+"Show me three things to do today, that's it",interview_15,Other,neutral
+Don't give me a hundred options until I ask for them,interview_15,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_15,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_15,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_15,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_15,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_15,Other,positive
+"The tool should feel like a partner, not a judge",interview_15,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_15,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_15,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_15,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_15,Productivity Guilt,neutral
+That's the biggest thing,interview_15,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_15,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_15,Other,neutral
+"I'm 24 years old, and I'm a engineering student / young professional",interview_16,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_16,Other,positive
+"Oh yes, I've tried so many",interview_16,Tool Hopping Behavior,neutral
+"Notion, ClickUp, Microsoft To Do, Google Keep",interview_16,Other,neutral
+probably more that I'm forgetting,interview_16,Other,neutral
+I'm always looking for the 'perfect' system,interview_16,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_16,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_16,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_16,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_16,Tool Hopping Behavior,neutral
+"So I download the app, create an account, and then",interview_16,Other,neutral
+"It's like, 'okay, now what",interview_16,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_16,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_16,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_16,Other,negative
+I'm never sure if I set it up 'correctly,interview_16,Other,neutral
+"' Like, am I using the right template",interview_16,Setup Fatigue,neutral
+Should I use tags or folders,interview_16,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_16,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_16,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_16,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_16,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_16,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_16,Other,neutral
+Maybe 5-10% of what the tool can do,interview_16,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_16,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_16,Social Comparison Anxiety,positive
+I think I need something that just,interview_16,Other,neutral
+"Show me three things to do today, that's it",interview_16,Other,neutral
+Don't give me a hundred options until I ask for them,interview_16,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_16,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_16,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_16,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_16,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_16,Other,positive
+"The tool should feel like a partner, not a judge",interview_16,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_16,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_16,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_16,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_16,Productivity Guilt,neutral
+That's the biggest thing,interview_16,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_16,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_16,Other,neutral
+"I'm 24 years old, and I'm a engineering student / young professional",interview_17,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_17,Other,positive
+"Oh yes, I've tried so many",interview_17,Tool Hopping Behavior,neutral
+"Todoist, Microsoft To Do, Evernote",interview_17,Other,neutral
+probably more that I'm forgetting,interview_17,Other,neutral
+I'm always looking for the 'perfect' system,interview_17,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_17,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_17,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_17,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_17,Tool Hopping Behavior,neutral
+"So I download the app, create an account, and then",interview_17,Other,neutral
+"It's like, 'okay, now what",interview_17,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_17,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_17,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_17,Other,negative
+I'm never sure if I set it up 'correctly,interview_17,Other,neutral
+"' Like, am I using the right template",interview_17,Setup Fatigue,neutral
+Should I use tags or folders,interview_17,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_17,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_17,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_17,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_17,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_17,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_17,Other,neutral
+Maybe 5-10% of what the tool can do,interview_17,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_17,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_17,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_17,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_17,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_17,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_17,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_17,Other,neutral
+"I don't know where to start, so I just",interview_17,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_17,Productivity Guilt,negative
+I think I need something that just,interview_17,Other,neutral
+"Show me three things to do today, that's it",interview_17,Other,neutral
+Don't give me a hundred options until I ask for them,interview_17,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_17,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_17,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_17,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_17,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_17,Other,positive
+"The tool should feel like a partner, not a judge",interview_17,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_17,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_17,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_17,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_17,Productivity Guilt,neutral
+That's the biggest thing,interview_17,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_17,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_17,Other,neutral
+"I'm 18 years old, and I'm a college student",interview_18,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_18,Other,positive
+"Yeah, I've tried Asana, Trello, Evernote",interview_18,Tool Hopping Behavior,neutral
+"I get really excited at first—like, THIS is going to be the thing that changes everything",interview_18,Other,positive
+"I spend the first few days adding all my tasks, color-coding things, setting up reminders",interview_18,Setup Fatigue,neutral
+"I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere",interview_18,Productivity Guilt,neutral
+"It makes me feel terrible, so I just stop opening the app",interview_18,Productivity Guilt,negative
+It's like the app is judging me,interview_18,Productivity Guilt,negative
+"I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",interview_18,Productivity Guilt,negative
+And then I feel guilty about abandoning THAT too,interview_18,Productivity Guilt,negative
+"So I download the app, create an account, and then",interview_18,Other,neutral
+"It's like, 'okay, now what",interview_18,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_18,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_18,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_18,Other,negative
+I'm never sure if I set it up 'correctly,interview_18,Other,neutral
+"' Like, am I using the right template",interview_18,Setup Fatigue,neutral
+Should I use tags or folders,interview_18,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_18,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_18,Other,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_18,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_18,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_18,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_18,Other,neutral
+Maybe 5-10% of what the tool can do,interview_18,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_18,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_18,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_18,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_18,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_18,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_18,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_18,Other,neutral
+"I don't know where to start, so I just",interview_18,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_18,Productivity Guilt,negative
+I need something that won't make me feel bad when I fall off the wagon,interview_18,Productivity Guilt,negative
+"Like, if I don't use it for three days, don't punish me with scary red notifications",interview_18,Other,neutral
+gently welcome me back,interview_18,Other,neutral
+"'Hey, want to add one task for today",interview_18,Other,neutral
+' Not 'YOU HAVE 15 OVERDUE ITEMS,interview_18,Productivity Guilt,neutral
+"Yeah, and also maybe about setting realistic expectations",interview_18,Other,neutral
+Don't let me add 30 tasks on day one,interview_18,Other,neutral
+Stop me and say 'let's start with three,interview_18,Other,neutral
+"' Protect me from myself, you know",interview_18,Other,neutral
+"Because I WILL go overboard in the honeymoon phase, and then I'll crash",interview_18,Other,neutral
+I need to feel successful fast—like within the first session,interview_18,Other,positive
+Not after a week of using it perfectly,interview_18,Other,positive
+"If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow",interview_18,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_18,Productivity Guilt,neutral
+That's the biggest thing,interview_18,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_18,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_18,Other,neutral
+"I'm 22 years old, and I'm a college student",interview_19,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_19,Other,positive
+"Yeah, I've tried Trello, Evernote, Notion",interview_19,Tool Hopping Behavior,neutral
+"I get really excited at first—like, THIS is going to be the thing that changes everything",interview_19,Other,positive
+"I spend the first few days adding all my tasks, color-coding things, setting up reminders",interview_19,Setup Fatigue,neutral
+"I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere",interview_19,Productivity Guilt,neutral
+"It makes me feel terrible, so I just stop opening the app",interview_19,Productivity Guilt,negative
+It's like the app is judging me,interview_19,Productivity Guilt,negative
+"I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",interview_19,Productivity Guilt,negative
+And then I feel guilty about abandoning THAT too,interview_19,Productivity Guilt,negative
+"So I download the app, create an account, and then",interview_19,Other,neutral
+"It's like, 'okay, now what",interview_19,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_19,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_19,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_19,Other,negative
+I'm never sure if I set it up 'correctly,interview_19,Other,neutral
+"' Like, am I using the right template",interview_19,Setup Fatigue,neutral
+Should I use tags or folders,interview_19,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_19,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_19,Other,neutral
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_19,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_19,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_19,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_19,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_19,Other,neutral
+"I don't know where to start, so I just",interview_19,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_19,Productivity Guilt,negative
+I need something that won't make me feel bad when I fall off the wagon,interview_19,Productivity Guilt,negative
+"Like, if I don't use it for three days, don't punish me with scary red notifications",interview_19,Other,neutral
+gently welcome me back,interview_19,Other,neutral
+"'Hey, want to add one task for today",interview_19,Other,neutral
+' Not 'YOU HAVE 15 OVERDUE ITEMS,interview_19,Productivity Guilt,neutral
+"Yeah, and also maybe about setting realistic expectations",interview_19,Other,neutral
+Don't let me add 30 tasks on day one,interview_19,Other,neutral
+Stop me and say 'let's start with three,interview_19,Other,neutral
+"' Protect me from myself, you know",interview_19,Other,neutral
+"Because I WILL go overboard in the honeymoon phase, and then I'll crash",interview_19,Other,neutral
+I need to feel successful fast—like within the first session,interview_19,Other,positive
+Not after a week of using it perfectly,interview_19,Other,positive
+"If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow",interview_19,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_19,Productivity Guilt,neutral
+That's the biggest thing,interview_19,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_19,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_19,Other,neutral
+"I'm 25 years old, and I'm a engineering student / young professional",interview_20,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_20,Other,positive
+"Oh yes, I've tried so many",interview_20,Tool Hopping Behavior,neutral
+"Todoist, Notion, Microsoft To Do, ClickUp",interview_20,Other,neutral
+probably more that I'm forgetting,interview_20,Other,neutral
+I'm always looking for the 'perfect' system,interview_20,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_20,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_20,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_20,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_20,Tool Hopping Behavior,neutral
+"So I download the app, create an account, and then",interview_20,Other,neutral
+"It's like, 'okay, now what",interview_20,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_20,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_20,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_20,Other,negative
+I'm never sure if I set it up 'correctly,interview_20,Other,neutral
+"' Like, am I using the right template",interview_20,Setup Fatigue,neutral
+Should I use tags or folders,interview_20,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_20,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_20,Other,neutral
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_20,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_20,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_20,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_20,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_20,Other,neutral
+"I don't know where to start, so I just",interview_20,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_20,Productivity Guilt,negative
+I think I need something that just,interview_20,Other,neutral
+"Show me three things to do today, that's it",interview_20,Other,neutral
+Don't give me a hundred options until I ask for them,interview_20,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_20,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_20,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_20,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_20,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_20,Other,positive
+"The tool should feel like a partner, not a judge",interview_20,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_20,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_20,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_20,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_20,Productivity Guilt,neutral
+That's the biggest thing,interview_20,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_20,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_20,Other,neutral
+"I'm 20 years old, and I'm a college student",interview_21,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_21,Other,positive
+"Yeah, I've tried ClickUp, Notion, Google Keep",interview_21,Tool Hopping Behavior,neutral
+"I get really excited at first—like, THIS is going to be the thing that changes everything",interview_21,Other,positive
+"I spend the first few days adding all my tasks, color-coding things, setting up reminders",interview_21,Setup Fatigue,neutral
+"I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere",interview_21,Productivity Guilt,neutral
+"It makes me feel terrible, so I just stop opening the app",interview_21,Productivity Guilt,negative
+It's like the app is judging me,interview_21,Productivity Guilt,negative
+"I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing",interview_21,Productivity Guilt,negative
+And then I feel guilty about abandoning THAT too,interview_21,Productivity Guilt,negative
+"So I download the app, create an account, and then",interview_21,Other,neutral
+"It's like, 'okay, now what",interview_21,Other,neutral
+' I usually end up watching a 30-minute YouTube tutorial just to understand the basics,interview_21,Setup Fatigue,neutral
+Then I spend another hour or two trying to recreate what I saw in the video,interview_21,Other,neutral
+"By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet",interview_21,Other,negative
+I'm never sure if I set it up 'correctly,interview_21,Other,neutral
+"' Like, am I using the right template",interview_21,Setup Fatigue,neutral
+Should I use tags or folders,interview_21,Social Comparison Anxiety,neutral
+Should I create separate workspaces for work and personal,interview_21,Context Switching,neutral
+"There's no right answer, so I keep second-guessing myself",interview_21,Other,neutral
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_21,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_21,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_21,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_21,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_21,Other,neutral
+"I don't know where to start, so I just",interview_21,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_21,Productivity Guilt,negative
+I need something that won't make me feel bad when I fall off the wagon,interview_21,Productivity Guilt,negative
+"Like, if I don't use it for three days, don't punish me with scary red notifications",interview_21,Other,neutral
+gently welcome me back,interview_21,Other,neutral
+"'Hey, want to add one task for today",interview_21,Other,neutral
+' Not 'YOU HAVE 15 OVERDUE ITEMS,interview_21,Productivity Guilt,neutral
+"Yeah, and also maybe about setting realistic expectations",interview_21,Other,neutral
+Don't let me add 30 tasks on day one,interview_21,Other,neutral
+Stop me and say 'let's start with three,interview_21,Other,neutral
+"' Protect me from myself, you know",interview_21,Other,neutral
+"Because I WILL go overboard in the honeymoon phase, and then I'll crash",interview_21,Other,neutral
+I need to feel successful fast—like within the first session,interview_21,Other,positive
+Not after a week of using it perfectly,interview_21,Other,positive
+"If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow",interview_21,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_21,Productivity Guilt,neutral
+That's the biggest thing,interview_21,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_21,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_21,Other,neutral
+"I'm 21 years old, and I'm a engineering student / young professional",interview_22,Other,neutral
+I've been trying to get better at managing my tasks and projects,interview_22,Other,positive
+"Oh yes, I've tried so many",interview_22,Tool Hopping Behavior,neutral
+"Microsoft To Do, ClickUp, Google Keep",interview_22,Other,neutral
+probably more that I'm forgetting,interview_22,Other,neutral
+I'm always looking for the 'perfect' system,interview_22,Tool Hopping Behavior,positive
+"I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks",interview_22,Setup Fatigue,neutral
+"Like, I spend so much time organizing and reorganizing that I barely get any actual work done",interview_22,Other,neutral
+"And then I see all these unfinished tasks piling up, and it feels overwhelming",interview_22,Feature Overwhelm,negative
+So I think 'maybe this tool isn't right for me' and I try another one,interview_22,Tool Hopping Behavior,neutral
+"Well, then I start using it, and I realize there are all these features I didn't even know existed",interview_22,Feature Overwhelm,neutral
+"Pop-ups telling me about databases, templates, integrations, AI features",interview_22,Feature Overwhelm,neutral
+"I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do",interview_22,Feature Overwhelm,neutral
+ignore them and stick to basic task lists,interview_22,Other,neutral
+Maybe 5-10% of what the tool can do,interview_22,Other,neutral
+Which makes me wonder why I'm even using this complex tool when I could just use a simpler one,interview_22,Feature Overwhelm,neutral
+"But everyone says these advanced tools are 'better,' so I feel like I should figure them out",interview_22,Social Comparison Anxiety,positive
+"I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week",interview_22,Social Comparison Anxiety,neutral
+I start thinking 'what's wrong with me,interview_22,Other,neutral
+' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly,interview_22,Other,neutral
+Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures,interview_22,Productivity Guilt,negative
+"And the more tasks pile up, the more paralyzed I feel",interview_22,Other,neutral
+"I don't know where to start, so I just",interview_22,Prioritization Difficulty,neutral
+And then the guilt gets worse,interview_22,Productivity Guilt,negative
+I think I need something that just,interview_22,Other,neutral
+"Show me three things to do today, that's it",interview_22,Other,neutral
+Don't give me a hundred options until I ask for them,interview_22,Feature Overwhelm,neutral
+And maybe guide me through setup instead of throwing me into an empty workspace,interview_22,Setup Fatigue,neutral
+"Like, 'here's your first task, let's add it together",interview_22,Other,neutral
+' Make it feel less like I'm building a system and more like I'm just getting started,interview_22,Setup Fatigue,neutral
+"Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time",interview_22,Other,neutral
+"'Hey, looks like you're using this a lot, would tags help you",interview_22,Other,positive
+"The tool should feel like a partner, not a judge",interview_22,Productivity Guilt,negative
+"Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't",interview_22,Other,positive
+"Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50",interview_22,Prioritization Difficulty,neutral
+Sometimes constraints are actually freeing,interview_22,Other,neutral
+please make something that doesn't make people feel stupid or inadequate,interview_22,Productivity Guilt,neutral
+That's the biggest thing,interview_22,Other,neutral
+"Productivity tools should empower you, not make you feel worse about yourself",interview_22,Social Comparison Anxiety,neutral
+─────────────────────────────────────────────────────────────,interview_22,Other,neutral
