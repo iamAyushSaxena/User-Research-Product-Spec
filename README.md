@@ -21,7 +21,9 @@
 
 ![Social Card](outputs/figures/social-card.png)
 
-## 🎯 Project Overview
+---
+
+## 🎯 Project Overview:
 
 ### The Problem
 Students and young professionals abandon productivity tools within the first 14 days because **initial setup complexity and task visibility creates cognitive overload and guilt**, leading to 82% abandonment rate.
@@ -457,3 +459,4 @@ If you found this project helpful or impressive, please consider:
 ---
 
 *Built with ❤️ to demonstrate PM skills for career transition*
+
