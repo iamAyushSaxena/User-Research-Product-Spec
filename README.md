@@ -1,7 +1,3 @@
-# 📊 User Research to Product Spec: Reducing Productivity Tool Abandonment
-
-A comprehensive user research project demonstrating PM skills in qualitative research, synthesis, persona development, and product specification.
-
 ![CI/CD Status](https://github.com/iamAyushSaxena/User-Research-Product-Spec/actions/workflows/ci.yml/badge.svg)
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-red.svg)](https://streamlit.io/)
@@ -10,7 +6,11 @@ A comprehensive user research project demonstrating PM skills in qualitative res
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayush-saxena-user-research-spec.streamlit.app/)
+# 📊 User Research to Product Spec: Reducing Productivity Tool Abandonment
+
+A comprehensive user research project demonstrating PM skills in qualitative research, synthesis, persona development, and product specification.
+
+Project Live at: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayush-saxena-user-research-spec.streamlit.app/)
 
 ---
 
@@ -267,3 +267,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If you find this project helpful, please star the repository!**
 
 **💬 Questions? Open an issue or reach out via LinkedIn.**
+
