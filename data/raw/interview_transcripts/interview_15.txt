@@ -1,0 +1,66 @@
+INTERVIEW TRANSCRIPT
+Interview ID: INT_015
+Date: 2025-11-04
+Duration: 30 minutes
+Participant: P015 (Anonymous)
+Method: Video call
+
+─────────────────────────────────────────────────────────────
+
+INTERVIEWER: Thanks for joining me today! Let's start with some basics. Can you tell me about yourself?
+
+PARTICIPANT: Sure! I'm 21 years old, and I'm a engineering student / young professional. I've been trying to get better at managing my tasks and projects.
+
+INTERVIEWER: Great! Have you used any productivity tools before?
+
+PARTICIPANT: Oh yes, I've tried so many! Evernote, Asana, Todoist, Google Keep... probably more that I'm forgetting. I'm always looking for the 'perfect' system. I spend hours watching YouTube tutorials and setting things up, but somehow I never stick with any of them for more than a couple weeks.
+
+INTERVIEWER: Interesting. What happens after those couple of weeks?
+
+PARTICIPANT: I guess I just... lose steam? Like, I spend so much time organizing and reorganizing that I barely get any actual work done. And then I see all these unfinished tasks piling up, and it feels overwhelming. So I think 'maybe this tool isn't right for me' and I try another one. It's exhausting.
+INTERVIEWER: Let's dig deeper into what specifically didn't work. Can you walk me through a typical experience?
+
+PARTICIPANT: Sure. So I download the app, create an account, and then... blank screen. It's like, 'okay, now what?' I usually end up watching a 30-minute YouTube tutorial just to understand the basics. Then I spend another hour or two trying to recreate what I saw in the video. By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet.
+
+INTERVIEWER: So the setup process itself is draining?
+
+PARTICIPANT: Completely. And the worst part? I'm never sure if I set it up 'correctly.' Like, am I using the right template? Should I use tags or folders? Should I create separate workspaces for work and personal? There's no right answer, so I keep second-guessing myself.
+
+INTERVIEWER: What happens after you've set everything up?
+
+PARTICIPANT: Well, then I start using it, and I realize there are all these features I didn't even know existed. Pop-ups telling me about databases, templates, integrations, AI features... it's overwhelming. I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do. So I just... ignore them and stick to basic task lists.
+
+INTERVIEWER: So you're not using most of the features?
+
+PARTICIPANT: Not at all. Maybe 5-10% of what the tool can do. Which makes me wonder why I'm even using this complex tool when I could just use a simpler one. But everyone says these advanced tools are 'better,' so I feel like I should figure them out. It's confusing.
+
+INTERVIEWER: How does that make you feel?
+
+PARTICIPANT: Honestly? Like a failure. I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week. I start thinking 'what's wrong with me?' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly.
+
+INTERVIEWER: That's a strong emotional response. Does the tool itself contribute to those feelings?
+
+PARTICIPANT: Absolutely. Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures. And the more tasks pile up, the more paralyzed I feel. I don't know where to start, so I just... don't. And then the guilt gets worse.
+
+INTERVIEWER: What would need to change for you to stick with a tool?
+
+PARTICIPANT: I think I need something that just... starts simple. Like, really simple. Show me three things to do today, that's it. Don't give me a hundred options until I ask for them. And maybe guide me through setup instead of throwing me into an empty workspace. Like, 'here's your first task, let's add it together.' Make it feel less like I'm building a system and more like I'm just getting started.
+
+INTERVIEWER: So progressive disclosure of features?
+
+PARTICIPANT: Yes! Exactly that. Start with the absolute basics—just tasks—and then as I use it, maybe introduce ONE new feature at a time. 'Hey, looks like you're using this a lot, would tags help you?' Not all at once.
+
+INTERVIEWER: What about the guilt and overwhelm you mentioned?
+
+PARTICIPANT: The tool should feel like a partner, not a judge. Maybe hide completed tasks by default so I see what I've accomplished, not what I haven't? Or limit how many tasks I can see at once—like, force me to focus on three things instead of showing me all 50. Sometimes constraints are actually freeing.
+INTERVIEWER: This has been incredibly helpful. Is there anything else you'd like to add?
+
+PARTICIPANT: Just... please make something that doesn't make people feel stupid or inadequate. That's the biggest thing. Productivity tools should empower you, not make you feel worse about yourself.
+
+INTERVIEWER: That's a perfect note to end on. Thank you so much for your time!
+
+PARTICIPANT: Thanks for listening!
+
+─────────────────────────────────────────────────────────────
+END OF INTERVIEW
+Interviewer Notes: Strong advocate for simplicity. Mentioned "less is more" multiple times.

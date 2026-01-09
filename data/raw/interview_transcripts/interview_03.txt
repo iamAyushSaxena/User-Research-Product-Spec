@@ -1,0 +1,66 @@
+INTERVIEW TRANSCRIPT
+Interview ID: INT_003
+Date: 2025-11-06
+Duration: 42 minutes
+Participant: P003 (Anonymous)
+Method: In-person
+
+─────────────────────────────────────────────────────────────
+
+INTERVIEWER: Thanks for joining me today! Let's start with some basics. Can you tell me about yourself?
+
+PARTICIPANT: Sure! I'm 18 years old, and I'm a college student. I've been trying to get better at managing my tasks and projects.
+
+INTERVIEWER: Great! Have you used any productivity tools before?
+
+PARTICIPANT: Yeah, I've tried Notion, Microsoft To Do, Asana. I get really excited at first—like, THIS is going to be the thing that changes everything! I spend the first few days adding all my tasks, color-coding things, setting up reminders. But then... I don't know, life gets busy, I miss a few days, and when I come back there's this huge list of overdue tasks with red notifications everywhere. It makes me feel terrible, so I just stop opening the app.
+
+INTERVIEWER: So the notifications make you feel guilty?
+
+PARTICIPANT: Exactly! It's like the app is judging me. I know that sounds silly, but seeing all those incomplete tasks just reminds me that I'm failing. So eventually I just... stop using it. And then I feel guilty about abandoning THAT too. It's a vicious cycle.
+INTERVIEWER: Let's dig deeper into what specifically didn't work. Can you walk me through a typical experience?
+
+PARTICIPANT: Sure. So I download the app, create an account, and then... blank screen. It's like, 'okay, now what?' I usually end up watching a 30-minute YouTube tutorial just to understand the basics. Then I spend another hour or two trying to recreate what I saw in the video. By the time I'm done setting it up, I'm mentally exhausted and I haven't actually DONE anything productive yet.
+
+INTERVIEWER: So the setup process itself is draining?
+
+PARTICIPANT: Completely. And the worst part? I'm never sure if I set it up 'correctly.' Like, am I using the right template? Should I use tags or folders? Should I create separate workspaces for work and personal? There's no right answer, so I keep second-guessing myself.
+
+INTERVIEWER: What happens after you've set everything up?
+
+PARTICIPANT: Well, then I start using it, and I realize there are all these features I didn't even know existed. Pop-ups telling me about databases, templates, integrations, AI features... it's overwhelming. I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do. So I just... ignore them and stick to basic task lists.
+
+INTERVIEWER: So you're not using most of the features?
+
+PARTICIPANT: Not at all. Maybe 5-10% of what the tool can do. Which makes me wonder why I'm even using this complex tool when I could just use a simpler one. But everyone says these advanced tools are 'better,' so I feel like I should figure them out. It's confusing.
+
+INTERVIEWER: How does that make you feel?
+
+PARTICIPANT: Honestly? Like a failure. I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week. I start thinking 'what's wrong with me?' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly.
+
+INTERVIEWER: That's a strong emotional response. Does the tool itself contribute to those feelings?
+
+PARTICIPANT: Absolutely. Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures. And the more tasks pile up, the more paralyzed I feel. I don't know where to start, so I just... don't. And then the guilt gets worse.
+
+INTERVIEWER: What would need to change for you to stick with a tool?
+
+PARTICIPANT: I need something that won't make me feel bad when I fall off the wagon. Like, if I don't use it for three days, don't punish me with scary red notifications. Just... gently welcome me back. 'Hey, want to add one task for today?' Not 'YOU HAVE 15 OVERDUE ITEMS.'
+
+INTERVIEWER: So it's about the tone and approach?
+
+PARTICIPANT: Yeah, and also maybe about setting realistic expectations. Don't let me add 30 tasks on day one. Stop me and say 'let's start with three.' Protect me from myself, you know? Because I WILL go overboard in the honeymoon phase, and then I'll crash.
+
+INTERVIEWER: Interesting. Any other features?
+
+PARTICIPANT: Quick wins. I need to feel successful fast—like within the first session. Not after a week of using it perfectly. If I can add a task and check it off in the first five minutes, and the app celebrates that somehow, I'd be so much more likely to come back tomorrow.
+INTERVIEWER: This has been incredibly helpful. Is there anything else you'd like to add?
+
+PARTICIPANT: Just... please make something that doesn't make people feel stupid or inadequate. That's the biggest thing. Productivity tools should empower you, not make you feel worse about yourself.
+
+INTERVIEWER: That's a perfect note to end on. Thank you so much for your time!
+
+PARTICIPANT: Thanks for listening!
+
+─────────────────────────────────────────────────────────────
+END OF INTERVIEW
+Interviewer Notes: Hesitant at first but opened up. Good rapport established.

@@ -1,0 +1,58 @@
+INTERVIEW TRANSCRIPT
+Interview ID: INT_013
+Date: 2025-11-09
+Duration: 45 minutes
+Participant: P013 (Anonymous)
+Method: In-person
+
+─────────────────────────────────────────────────────────────
+
+INTERVIEWER: Thanks for joining me today! Let's start with some basics. Can you tell me about yourself?
+
+PARTICIPANT: Sure! I'm 27 years old, and I'm a creative professional / graduate student. I've been trying to get better at managing my tasks and projects.
+
+INTERVIEWER: Great! Have you used any productivity tools before?
+
+PARTICIPANT: I've tried Todoist, Notion, but honestly? I always go back to pen and paper. There's something about writing things down by hand that just works better for my brain. Digital tools feel so... cold? Mechanical? I tried using Notion for a few weeks because everyone at work uses it, but I found myself constantly switching between the app and my notebook. Eventually I just gave up on the digital stuff.
+
+INTERVIEWER: What specifically made you go back to paper?
+
+PARTICIPANT: The digital tools just don't have that flexibility, you know? With a notebook, I can doodle, draw arrows, cross things out violently when I'm frustrated—it's more human. Plus, I don't have to worry about which template to use or how to structure everything. I just... write. It's liberating compared to all those menus and buttons and settings.
+INTERVIEWER: Let's dig deeper into what specifically didn't work. Can you walk me through a typical experience?
+
+PARTICIPANT: Well, then I start using it, and I realize there are all these features I didn't even know existed. Pop-ups telling me about databases, templates, integrations, AI features... it's overwhelming. I feel like I should be using all these advanced features to be 'productive,' but I don't even understand what half of them do. So I just... ignore them and stick to basic task lists.
+
+INTERVIEWER: So you're not using most of the features?
+
+PARTICIPANT: Not at all. Maybe 5-10% of what the tool can do. Which makes me wonder why I'm even using this complex tool when I could just use a simpler one. But everyone says these advanced tools are 'better,' so I feel like I should figure them out. It's confusing.
+
+INTERVIEWER: How does that make you feel?
+
+PARTICIPANT: Honestly? Like a failure. I see people on YouTube with these beautiful, organized Notion workspaces tracking every aspect of their lives, and I can't even keep up with a basic task list for more than a week. I start thinking 'what's wrong with me?' It's not just about the tool anymore—it's about feeling like I'm not disciplined enough or organized enough or smart enough to use it properly.
+
+INTERVIEWER: That's a strong emotional response. Does the tool itself contribute to those feelings?
+
+PARTICIPANT: Absolutely. Every time I open it and see that list of incomplete tasks—with all the red overdue badges—it's like a visual representation of my failures. And the more tasks pile up, the more paralyzed I feel. I don't know where to start, so I just... don't. And then the guilt gets worse.
+
+INTERVIEWER: What would need to change for you to stick with a tool?
+
+PARTICIPANT: Honestly, I might never fully switch from paper. But if a digital tool could give me the flexibility of paper—like, not force me into rigid structures—I might use it alongside my notebook. Maybe for things that need reminders or sharing with others.
+
+INTERVIEWER: What would that flexibility look like?
+
+PARTICIPANT: Less 'you must use our system' and more 'use it however makes sense to you.' Don't make me choose between 10 template types. Just give me a blank space and let me write. If I want to add structure later, I can. But don't force it.
+
+INTERVIEWER: Would you ever fully switch to digital?
+
+PARTICIPANT: Only if it could replicate the feeling of paper—the freedom, the tactile satisfaction, the lack of options paralysis. Right now, digital tools try to do everything, which means they do nothing particularly well. I'd rather have a tool that does one thing perfectly than tries to be everything to everyone.
+INTERVIEWER: This has been incredibly helpful. Is there anything else you'd like to add?
+
+PARTICIPANT: Just... please make something that doesn't make people feel stupid or inadequate. That's the biggest thing. Productivity tools should empower you, not make you feel worse about yourself.
+
+INTERVIEWER: That's a perfect note to end on. Thank you so much for your time!
+
+PARTICIPANT: Thanks for listening!
+
+─────────────────────────────────────────────────────────────
+END OF INTERVIEW
+Interviewer Notes: Very passionate about the topic. Clear frustration with current tools.
